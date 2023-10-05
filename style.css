@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif
+
+}
+
+div {
+    height: 400px;
+}
+
+a {
+    margin-right: 5rem;
+    color: white;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: rgb(192, 171, 171);
+}
+
+.box1 {
+    height: 500px;
+    background-image: url("./images/capa.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x: center;
+}
+
+.box2 {
+    background-color: grey;    
+    height: 60px;
+    padding: .7% 25px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.box3 {
+    height: auto;
+    padding: 25px;
+    color: white;
+}
+
+.box4 {
+    color: white;
+    text-align: center;
+    height: auto;
+}
