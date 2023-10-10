@@ -52,7 +52,7 @@ nav ul li {
 }
 
 .box2 {
-    height: auto;
+    height: 100%;
     border: 2px solid white;
     text-align: center;
     padding: 30px;
